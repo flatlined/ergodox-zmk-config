@@ -13,10 +13,10 @@
                         bindings = <
     &bootloader
     &kp ESC	&kp N1	&kp N2	&kp N4	&kp N5	&kp N6	&kp N7	&kp N8	&kp N9	&kp N0	&kp MINUS	&kp EQUAL	&kp GRAVE
-&kp TAB	&kp Q	&kp W	&kp R	&kp T	&kp LBKT	&kp RBKT	&kp Y	&kp U	&kp I	&kp O	&kp P	&kp BLSH
-&kp DEL	&kp A	&kp S	&kp F	&kp G			&kp H	&kp J	&kp K	&kp L	&kp SQT	&kp BSPC
-&kp LSHIFT	&kp Z	&kp X	&kp V	&kp B	&kp Z	&kp SEMI	&kp N	&kp M	&kp COMMA	&kp DOT	&kp QMARK	&kp RSHIFT
-&kp LCTRL	&kp K_APP	&kp LALT	&kp Z					&kp LEFT	&kp DOWN	&kp UP	&kp RIGHT	&kp RCTL
+    &kp TAB	&kp Q	&kp W	&kp R	&kp T	&kp LBKT	&kp RBKT	&kp Y	&kp U	&kp I	&kp O	&kp P	&kp BLSH
+    &kp DEL	&kp A	&kp S	&kp F	&kp G			&kp H	&kp J	&kp K	&kp L	&kp SQT	&kp BSPC
+    &kp LSHIFT	&kp Z	&kp X	&kp V	&kp B	&kp Z	&kp SEMI	&kp N	&kp M	&kp COMMA	&kp DOT	&kp QMARK	&kp RSHIFT
+    &kp LCTRL	&kp K_APP	&kp LALT	&kp Z					&kp LEFT	&kp DOWN	&kp UP	&kp RIGHT	&kp RCTL
 												
 												
 				&kp A	&kp B	&kp C	&kp D					
