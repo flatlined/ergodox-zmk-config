@@ -17,10 +17,10 @@
     &kp DEL    &kp A      &kp S      &kp D      &kp F      &kp G                            &kp H      &kp J      &kp K      &kp L      &kp SQT   &kp BSPC
     &kp LSHFT      &kp Z      &kp X      &kp C      &kp V      &kp B      &kp Z &kp SEMI &kp N      &kp M      &kp CMMA   &kp DOT    &kp FSLH   &kp RSHFT
     &kp LCTRL      &kp K_APP      &kp LALT   &kp LWIN   &kp Z                                               &kp LEFT   &kp DOWN   &kp UP   &kp RIGHT      &kp RCTL
-                                                           &kp DEL    &kp HOME   &kp END    &kp INS
-                                                                      &kp PGUP   &kp PGDN
-                                                &kp SPC    &kp LCTL                         &kp LSFT   &kp RET
-                                                                      &kp LGUI   &mo 1						
+                                                           &kp A    &kp B   &kp C    &kp D
+                                                                      &kp E   &kp F
+                                                &kp SPC    &kp G                         &kp H   &kp RET
+                                                                      &kp I   &kp J						
 
                         >;
                 };
