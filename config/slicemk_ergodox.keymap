@@ -22,7 +22,7 @@
     &kp LCTRL      &kp K_APP      &kp LALT   &kp LWIN   &mo AZFUNC                                               &kp LEFT   &kp DOWN   &kp UP   &kp RIGHT      &kp RCTL
                                                            &kp A    &kp B   &kp C    &kp D
                                                                       &kp E   &kp F
-                                                &kp E    &kp G                         &kp H   &kp RET
+                                                &kp SPC    &kp G                         &kp H   &kp RET
                                                                       &kp I   &kp J						
 
                         >;
@@ -38,7 +38,7 @@
     &none      &none      &none      &none      &none                                                  &none      &none      &none      &none      &out OUT_TOG
                                                            &none      &none      &none      &none
                                                                       &none      &none
-                                                &none      &none                            &none      &none
+                                                &kp E      &none                            &none      &none
                                                                       &none      &none
                         >;
                 };
