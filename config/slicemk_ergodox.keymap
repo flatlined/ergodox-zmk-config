@@ -34,7 +34,7 @@
     &none      &kp F1     &kp F2     &kp F3     &kp F4      &kp F5     &kp F6     &kp F7     &kp F8      &kp F9     &kp F10    &kp F11    &kp F12      &kp GRAVE
     &kp TAB    &kp HOME      &kp UP      &kp END      &kp PG_UP      &kp GRAVE      &kp LBKT   &kp RBKT &kp PG_UP      &kp HOME      &kp UP      &kp END      &kp P      &kp BSLH
     &kp DEL    &kp LEFT      &kp DOWN      &kp RIGHT      &kp PG_DN      &kp PSCRN                            &kp PG_DN      &kp LEFT   &kp DOWN      &kp UP      &kp RIGHT      &kp SQT   &kp BSPC
-    &kp LSHFT      &kp Z      &kp K_PREV      &kp K_PP      &kp K_NEXT      &kp B      &kp LS(LC(LG(V))) &kp SEMI &kp N      &kp M      &kp CMMA   &kp DOT    &kp FSLH   &kp RSHFT
+    &kp LSHFT      &kp Z      &kp C_PREV      &kp C_PP      &kp C_NEXT      &kp B      &kp LS(LC(LG(V))) &kp SEMI &kp N      &kp M      &kp CMMA   &kp DOT    &kp FSLH   &kp RSHFT
     &kp LCTRL      &kp K_APP      &kp LALT   &kp LWIN   &none                                               &kp LEFT   &kp DOWN   &kp UP   &kp RIGHT      &kp RCTL
                                                            &kp A    &kp B   &kp C    &kp D
                                                                       &kp E   &kp F
