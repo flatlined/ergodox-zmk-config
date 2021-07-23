@@ -36,10 +36,10 @@
     &kp BSPC    &kp LEFT      &kp DOWN      &kp RIGHT      &kp PG_DN      &kp PSCRN                            &kp PG_DN      &kp LEFT   &kp DOWN      &kp UP      &kp RIGHT      &kp SQT   &kp BSPC
     &kp LSHFT      &kp Z      &cp C_PREV      &cp C_PP      &cp C_NEXT      &kp B      &kp LS(LC(LG(V))) &kp SEMI &kp N      &kp M      &kp CMMA   &kp DOT    &kp FSLH   &kp RSHFT
     &kp LCTRL      &kp K_APP      &kp LALT   &kp LWIN   &none                                               &kp LEFT   &kp DOWN   &kp UP   &kp RIGHT      &kp RCTL
-                                                           &kp HOME    &kp END   &kp C    &kp D
-                                                                      &kp PG_UP   &kp F
+                                                           &kp HOME    &kp END   &kp HOME    &kp END
+                                                                      &kp PG_UP   &kp PG_UP
                                                 &kp SPC    &kp G                         &kp H   &kp RET
-                                                                      &kp PG_DN   &kp J
+                                                                      &kp PG_DN   &kp PG_DN
                         >;
                 };
 
