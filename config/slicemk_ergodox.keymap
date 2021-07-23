@@ -20,10 +20,10 @@
     &kp DEL    &kp A      &kp S      &kp D      &kp F      &kp G                            &kp H      &kp J      &kp K      &kp L      &kp SQT   &kp BSPC
     &kp LSHFT      &kp Z      &kp X      &kp C      &kp V      &kp B      &kp LS(LC(LG(V))) &kp SEMI &kp N      &kp M      &kp CMMA   &kp DOT    &kp FSLH   &kp RSHFT
     &kp LCTRL      &kp K_APP      &kp LALT   &kp LWIN   &mo AZFUNC                                               &kp LEFT   &kp DOWN   &kp UP   &kp RIGHT      &kp RCTL
-                                                           &kp LEFT    &kp RIGHT   &kp PG_UP    &kp PG_DN
-                                                                      &kp UP   &kp HOME
+                                                           &kp LEFT    &kp RIGHT   &kp HOME    &kp END
+                                                                      &kp UP   &kp PG_UP
                                                 &kp SPC    &kp RET                         &mo AZFUNC   &kp RET
-                                                                      &kp DOWN   &kp END						
+                                                                      &kp DOWN   &kp PG_DN						
 
                         >;
                 };
@@ -36,10 +36,10 @@
     &kp BSPC    &kp LEFT      &kp DOWN      &kp RIGHT      &kp PG_DN      &kp PSCRN                            &kp PG_DN      &kp LEFT   &kp DOWN      &kp UP      &kp RIGHT      &kp SQT   &kp BSPC
     &kp LSHFT      &kp Z      &cp C_PREV      &cp C_PP      &cp C_NEXT      &kp B      &kp LS(LC(LG(V))) &kp SEMI &kp N      &kp M      &kp CMMA   &kp DOT    &kp FSLH   &kp RSHFT
     &kp LCTRL      &kp K_APP      &kp LALT   &kp LWIN   &none                                               &kp LEFT   &kp DOWN   &kp UP   &kp RIGHT      &kp RCTL
-                                                           &kp PG_UP    &kp PG_DN   &kp C    &kp D
-                                                                      &kp HOME   &kp F
+                                                           &kp HOME    &kp END   &kp C    &kp D
+                                                                      &kp PG_UP   &kp F
                                                 &kp SPC    &kp G                         &kp H   &kp RET
-                                                                      &kp END   &kp J
+                                                                      &kp PG_DN   &kp J
                         >;
                 };
 
